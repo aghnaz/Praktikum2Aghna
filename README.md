@@ -1,0 +1,11 @@
+# Praktikum2Aghna
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan1.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan2.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan3.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan4.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan5.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan6.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan7.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan8.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan9.JPG)
+![alt text](https://github.com/aghnaz/Praktikum2Aghna/blob/master/latihan10.JPG)
